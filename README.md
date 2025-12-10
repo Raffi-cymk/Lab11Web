@@ -99,3 +99,30 @@ Jika mengkonfirmasi penghapusan, muncul pesan bahwa artikel berhasil dihapus.
 Kembali ke halaman index, data yang dihapus sudah tidak ada lagi dan sisa data tampil dengan benar.
 
 <img width="424" height="302" alt="Screenshot 2025-12-10 120048" src="https://github.com/user-attachments/assets/4838f5e4-91a2-4d28-89f6-9b1b8401600e" />
+
+
+---
+
+## 🎉 Kesimpulan
+
+Pada praktikum ini, saya berhasil membangun mini framework PHP berbasis OOP, yang mencakup:
+
+✔ Routing sederhana menggunakan .htaccess
+
+✔ Kelas Database untuk koneksi dan query
+
+✔ Kelas Form untuk membuat form dinamis
+
+✔ Struktur modular dengan folder module, class, dan template
+
+✔ CRUD lengkap untuk modul Artikel:
+
+* Create
+
+* Read
+
+* Update
+
+* Delete
+
+Semua fitur telah diuji dan bekerja sesuai kebutuhan.
